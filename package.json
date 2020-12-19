@@ -1,0 +1,25 @@
+{
+  "name": "upload_excel",
+  "version": "1.0.0",
+  "description": "using  nodejs ,mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keerthanachinna/upload_excel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keerthanachinna/upload_excel/issues"
+  },
+  "homepage": "https://github.com/keerthanachinna/upload_excel#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.3",
+    "multer": "^1.4.2"
+  }
+}
